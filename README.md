@@ -98,7 +98,7 @@ Pengguna dapat berlangganan untuk mendapatkan artikel terbaru langsung di email 
 
 ## 👤 Author
 
-**Muhammad Farrel Satrio Adipramana** (25.12.3569)
+** Farrel **
 
 ## 📄 Lisensi
 
@@ -112,4 +112,4 @@ Project ini adalah tugas untuk mata kuliah **Pemrograman Web (PPW)**.
 
 ---
 
-© 2026 Liputan 26. Hak cipta dilindungi — Muhammad Farrel Satrio Adipramana
+© 2026 Liputan 26. Hak cipta dilindungi — Farrel
